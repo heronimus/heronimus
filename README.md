@@ -4,7 +4,7 @@ Passionate about **Computer Vision**, **Machine Learning**/**Deep Learning**/**A
 
 <p align="left">
     <a href="https://github.com/heronimus" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@heronimus-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/heronimus" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/heronimustra/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="https://www.researchgate.net/profile/Heronimus_Tresy_Renata_Adie" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <br><br>
 </p>
