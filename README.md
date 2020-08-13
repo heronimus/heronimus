@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Heronimus,
 
-Passionate about Computer Vision, Machine Learning/Deep Learning/AI, also Tech Infrastructure. Take a look on my professional profile and current research at LinkedIn and ResearchGate ✨.
+Passionate about **Computer Vision**, **Machine Learning**/**Deep Learning**/**AI**, also **Tech Infrastructure**. Take a look at my professional profile and current research on LinkedIn and ResearchGate ✨.
 
 <p align="left">
     <a href="https://github.com/heronimus" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@heronimus-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
