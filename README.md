@@ -33,6 +33,8 @@ Passionate about **Computer Vision**, **Machine Learning**/**Deep Learning**/**A
           <br>
           - <a href="https://github.com/nginxinc/ansible-role-nginx">nginxinc/ansible-role-nginx</a>
           <br>
+          - <a href="https://github.com/heronimus/ct-plugin-string2files">heronimus/ct-plugin-string2files</a>
+          <br>
           - <a href="https://github.com/heronimus/eumn-scripts">heronimus/eumn-scripts</a> 
       </td>
       <td>
