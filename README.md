@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Heronimus,
 
-Passionate about **Computer Vision**, **Machine Learning**/**Deep Learning**/**AI**, also **Tech Infrastructure**/**DevOps**. Take a look at my professional profile and current research on LinkedIn and ResearchGate ✨.
+Passionate about **Computer Vision**/**AI**, **Tech Infrastructure**/**DevOps**, also **Blockchain/Cryptocurrencies** industries. Take a look at my professional profile and current research on LinkedIn and ResearchGate ✨.
 
 <!-- profile badges -->
 <p align="left">
