@@ -13,7 +13,6 @@ Passionate about **Computer Vision**, **Machine Learning**/**Deep Learning**/**A
 
 
 <!-- highlight repository -->
-<details>
 <summary><b> Highlight Repository </b></summary>
 <br>
 <table align="center">
@@ -21,7 +20,7 @@ Passionate about **Computer Vision**, **Machine Learning**/**Deep Learning**/**A
     <tr>
       <th align="center">Research</th>
       <th align="center"> Dev / Contribution</th>
-      <th align="center">Guide</th>
+      <th align="center">Guide / Sharing</th>
     </tr>
     <tr valign="top">
       <td>
@@ -30,22 +29,25 @@ Passionate about **Computer Vision**, **Machine Learning**/**Deep Learning**/**A
           - heronimus/deepjava-ai
       </td>
       <td>
-          - <a href="https://github.com/eumndev/euka">eumndev/euka</a> 
+          - <a href="https://github.com/asiantbd/crypto-discord-bot">asiantbd/crypto-discord-bot</a>
           <br>
-          - <a href="https://github.com/nginxinc/ansible-role-nginx">nginxinc/ansible-role-nginx</a>
+          - <a href="https://github.com/eumndev/euka">eumndev/euka</a> 
           <br>
           - <a href="https://github.com/heronimus/ct-plugin-string2files">heronimus/ct-plugin-string2files</a>
           <br>
-          - <a href="https://github.com/heronimus/eumn-scripts">heronimus/eumn-scripts</a> 
+          - <a href="https://github.com/hashicorp/consul/commit/d866e51bd416f3ac6829f81575bda8b0f40f1ae2">hashicorp/consul</a>   
+          <br>
+          - <a href="https://github.com/nginxinc/ansible-role-nginx/pull/264">nginxinc/ansible-role-nginx</a>       
+          <br>
       </td>
       <td>
+          - <a href="https://github.com/heronimus/guide-apm-monitoring">heronimus/guide-apm-monitoring</a>
+          <br>
           - <a href="https://github.com/heronimus/guide-docker-introduction">heronimus/guide-docker-introduction</a>
           <br>
           - <a href="https://github.com/heronimus/guide-jenkins-cicd">heronimus/guide-jenkins-cicd</a>
           <br>          
           - <a href="https://github.com/heronimus/guide-log-monitoring">heronimus/guide-log-monitoring</a>
-          <br>
-          - <a href="https://github.com/heronimus/guide-apm-monitoring">heronimus/guide-apm-monitoring</a>
           <br>
           - <a href="https://github.com/heronimus/sharing-unesa-docker">heronimus/sharing-unesa-docker</a>
       </td>
@@ -53,7 +55,6 @@ Passionate about **Computer Vision**, **Machine Learning**/**Deep Learning**/**A
   </tbody>
 </table>
 <br>
-</details> 
 
 
 
