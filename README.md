@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Heronimus,
 
-Passionate about **Blockchain/Cryptocurrencies**, **Computer Vision**/**AI**, also **Tech Infrastructure**/**DevOps** industries. Take a look at my professional profile and current research on LinkedIn and ResearchGate ✨.
+Passionate about **Blockchain/Cryptocurrencies**, **Computer Vision**/**AI**, also **Tech Infrastructure**/**DevOps** industries. Take a look at my professional profile on LinkedIn and current research on ResearchGate ✨.
 
 <!-- profile badges -->
 <p align="left">
@@ -35,7 +35,7 @@ Passionate about **Blockchain/Cryptocurrencies**, **Computer Vision**/**AI**, al
           <br>
           - <a href="https://github.com/heronimus/ct-plugin-string2files">heronimus/ct-plugin-string2files</a>
           <br>
-          - <a href="https://github.com/hashicorp/consul/commit/d866e51bd416f3ac6829f81575bda8b0f40f1ae2">hashicorp/consul</a>   
+          - <a href="https://github.com/hashicorp/consul/commit/d866e51bd416f3ac6829f81575bda8b0f40f1ae2">hashicorp/consul</a> (community plugin)
           <br>
           - <a href="https://github.com/nginxinc/ansible-role-nginx/pull/264">nginxinc/ansible-role-nginx</a>       
           <br>
