@@ -18,18 +18,13 @@ Passionate about **Blockchain/Cryptocurrencies**, **Computer Vision**/**AI**, al
 <table align="center">
   <tbody>
     <tr>
-      <th align="center">Research</th>
-      <th align="center"> Dev / Contribution</th>
+      <th align="center"> Research / Dev </th>
+      <th align="center">Blockchain / Crypto</th>
       <th align="center">Guide / Sharing</th>
     </tr>
     <tr valign="top">
       <td>
           - <a href="https://github.com/heronimus/Inpainting-GPU">heronimus/Inpainting-GPU</a> 
-          <br>
-          - heronimus/deepjava-ai
-      </td>
-      <td>
-          - <a href="https://github.com/asiantbd/crypto-discord-bot">asiantbd/crypto-discord-bot</a>
           <br>
           - <a href="https://github.com/eumndev/euka">eumndev/euka</a> 
           <br>
@@ -38,6 +33,14 @@ Passionate about **Blockchain/Cryptocurrencies**, **Computer Vision**/**AI**, al
           - <a href="https://github.com/hashicorp/consul/commit/d866e51bd416f3ac6829f81575bda8b0f40f1ae2">hashicorp/consul</a> (community plugin)
           <br>
           - <a href="https://github.com/nginxinc/ansible-role-nginx/pull/264">nginxinc/ansible-role-nginx</a>       
+          <br>
+      </td>
+      <td>
+          - <a href="https://github.com/asiantbd/crypto-discord-bot">asiantbd/crypto-discord-bot</a>
+          <br>
+          - [WIP] <a href="https://github.com/heronimus/spookybrew-ethers-rs">heronimus/spookybrew-ethers-rs</a> 
+          <br>
+          - [WIP] <a href="https://github.com/heronimus/blockchain-in-compose">heronimus/blockchain-in-compose</a>
           <br>
       </td>
       <td>
