@@ -26,7 +26,7 @@ Passionate about **Blockchain/Cryptocurrencies**, **Computer Vision**/**AI**, al
       <td>
           - <a href="https://github.com/heronimus/Inpainting-GPU">heronimus/Inpainting-GPU</a> 
           <br>
-          - <a href="https://github.com/eumndev/euka">eumndev/euka</a> 
+          - <a href="https://github.com/heronimus/euka">heronimus/euka</a> 
           <br>
           - <a href="https://github.com/heronimus/ct-plugin-string2files">heronimus/ct-plugin-string2files</a>
           <br>
