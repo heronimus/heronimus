@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Heronimus,
 
-Passionate about **Tech Infrastructure**/**DevOps**, **Computer Vision**/**AI**, also recently **Blockchain/Cryptocurrencies** industries. Take a look at my professional profile on LinkedIn and current research on ResearchGate ✨.
+Passionate about **Tech Infrastructure**/**DevOps**, **Computer Vision**, and also recently into **Blockchain/Cryptocurrencies** industries.
 
 <!-- profile badges -->
 <p align="left">
@@ -13,6 +13,7 @@ Passionate about **Tech Infrastructure**/**DevOps**, **Computer Vision**/**AI**,
 
 
 <!-- highlight repository -->
+<details>
 <summary><b> Highlight Repository </b></summary>
 <br>
 <table align="center">
@@ -35,6 +36,8 @@ Passionate about **Tech Infrastructure**/**DevOps**, **Computer Vision**/**AI**,
           <br>
       </td>
       <td>
+          - <a href="https://github.com/argus-Labs/world-engine/">argus-labs/world-engine</a>
+          <br>
           - <a href="https://github.com/asiantbd/crypto-discord-bot">asiantbd/crypto-discord-bot</a>
           <br>
           - [WIP] <a href="https://github.com/heronimus/spookybrew-ethers-rs">heronimus/spookybrew-ethers-rs</a> (EVM-based Contract Caller)
@@ -65,6 +68,7 @@ Passionate about **Tech Infrastructure**/**DevOps**, **Computer Vision**/**AI**,
       </td>
     </tr>
 </table>
+</details>
 
 <!-- Github Stats -->
 <details>
