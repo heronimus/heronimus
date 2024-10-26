@@ -38,6 +38,8 @@ Passionate about **Tech Infrastructure**/**DevOps**, **Computer Vision**, and al
       <td>
           - <a href="https://github.com/argus-Labs/world-engine/">argus-labs/world-engine</a>
           <br>
+          - <a href="https://github.com/argus-Labs/world-cli/">argus-labs/world-cli</a>
+          <br>
           - <a href="https://github.com/asiantbd/crypto-discord-bot">asiantbd/crypto-discord-bot</a>
           <br>
           - [WIP] <a href="https://github.com/heronimus/spookybrew-ethers-rs">heronimus/spookybrew-ethers-rs</a> (EVM-based Contract Caller)
@@ -80,28 +82,5 @@ Passionate about **Tech Infrastructure**/**DevOps**, **Computer Vision**, and al
 </p>
 </details> 
 
-
-
-<!--
-**heronimus/heronimus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=heronimus&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heronimus&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
 </details> 
 
--->
