@@ -25,7 +25,7 @@ Software Engineer specializing in **DevOps** / **Site Reliability Engineering**,
           • <a href="https://github.com/heronimus/Inpainting-GPU">heronimus/Inpainting-GPU</a>
       </td>
       <td style="padding: 8px; line-height: 1.6; width: 40%;">
-          GPU-accelerated image inpainting
+          [Research-Paper] GPU-accelerated image inpainting
       </td>
     </tr>
     <tr>
@@ -163,7 +163,7 @@ Software Engineer specializing in **DevOps** / **Site Reliability Engineering**,
 <br><br><br><br>
 <br><br><br><br>
 <br><br><br><br>
-<br><br>
+<br><br><br>
 </details>
 
 <details>
