@@ -104,7 +104,7 @@ Software Engineer specializing in **DevOps** / **Site Reliability Engineering**,
           • <a href="https://github.com/heronimus/Cronos-POS-Node-Helm-GitOps">heronimus/Cronos-POS-Node-Helm-GitOps</a>
       </td>
       <td style="padding: 8px; line-height: 1.6;">
-          Cronos POS Node Helm & GitOps deployment
+          Cronos-POS Node (STATE-SYNC mode) Helm & GitOps deployment
       </td>
     </tr>
   </tbody>
